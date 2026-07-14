@@ -2,8 +2,7 @@
 
 # Hi, I'm Julián 👋
 
-### Full-Stack Engineer · Software Architecture · San Cristóbal de las Casas, Chiapas 🇲🇽
-
+### Full-Stack Engineer · Software Architecture
 <img src="https://komarev.com/ghpvc/?username=julianvic&label=Profile%20views&color=D4AF37&style=for-the-badge" alt="profile views" />
 
 </div>
