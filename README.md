@@ -77,6 +77,9 @@ Full-stack engineer with experience leading small development teams and shipping
 <a href="https://instagram.com/julian.vicp" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=D4AF37" alt="Instagram" />
 </a>
+<a href="https://www.linkedin.com/in/julianvdev/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" />
+</a>
 <a href="mailto:josejulianvicenteperez@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email" />
 </a>
