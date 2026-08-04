@@ -74,7 +74,7 @@ Full-stack engineer with experience leading small development teams and shipping
 ## 🔗 Connect
 
 <p align="left">
-<a href="https://instagram.com/jul.vic" target="_blank">
+<a href="https://instagram.com/julian.vic" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=D4AF37" alt="Instagram" />
 </a>
 <a href="mailto:josejulianvicenteperez@gmail.com" target="_blank">
